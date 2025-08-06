@@ -1,6 +1,4 @@
-# Exploratory-Data-Analysis-on-Titanic-Dataset
-
-# 🚢 Titanic Dataset – Exploratory Data Analysis (EDA) Report
+# Titanic Dataset – Exploratory Data Analysis (EDA) Report
 
 ## 📁 Dataset Overview
 
