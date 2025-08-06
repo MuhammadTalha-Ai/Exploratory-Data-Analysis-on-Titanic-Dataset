@@ -2,7 +2,7 @@
 
 ## 📁 Dataset Overview
 
-**Source**: [Kaggle – Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/)  
+**Source**: [Kaggle – Titanic: Machine Learning from Disaster](https://www.kaggle.com/datasets/shuofxz/titanic-machine-learning-from-disaster)  
 **Description**: Classic binary classification dataset where the goal is to predict survival based on passenger attributes.
 
 ---
